@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b54b399-8143-454f-8b0e-55a6f21ef1aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/azure-ml-intro-tut.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vehicles.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cD1tv72u7gyBwpXLZQBMTYzeQz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="azure-ml-intro-tut" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b54b399-8143-454f-8b0e-55a6f21ef1aa" name="Default Changelist" comment="" />
+      <created>1590048567936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590048567936</updated>
+      <workItem from="1590048570426" duration="1722000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="460" key="FileChooserDialogImpl" timestamp="1590048686293">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="1060" y="460" key="FileChooserDialogImpl/-3840.0.1536.846/0.0.2560.1409@0.0.2560.1409" timestamp="1590048686293" />
+    <state width="2517" height="404" key="GridCell.Tab.0.bottom" timestamp="1590050292169">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2517" height="404" key="GridCell.Tab.0.bottom/-3840.0.1536.846/0.0.2560.1409@0.0.2560.1409" timestamp="1590050292169" />
+    <state width="2517" height="404" key="GridCell.Tab.0.center" timestamp="1590050292169">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2517" height="404" key="GridCell.Tab.0.center/-3840.0.1536.846/0.0.2560.1409@0.0.2560.1409" timestamp="1590050292169" />
+    <state width="2517" height="404" key="GridCell.Tab.0.left" timestamp="1590050292169">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2517" height="404" key="GridCell.Tab.0.left/-3840.0.1536.846/0.0.2560.1409@0.0.2560.1409" timestamp="1590050292169" />
+    <state width="2517" height="404" key="GridCell.Tab.0.right" timestamp="1590050292169">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2517" height="404" key="GridCell.Tab.0.right/-3840.0.1536.846/0.0.2560.1409@0.0.2560.1409" timestamp="1590050292169" />
+    <state x="782" y="350" key="SettingsEditor" timestamp="1590050282106">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="782" y="350" key="SettingsEditor/-3840.0.1536.846/0.0.2560.1409@0.0.2560.1409" timestamp="1590050282106" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/azure_ml_intro_tut$app.coverage" NAME="app Coverage Results" MODIFIED="1590049646586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
